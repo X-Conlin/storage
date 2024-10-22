@@ -30,6 +30,7 @@ androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
 jailedBird = { group = "com.github.JailedBird", name = "jitpack", version = "feat-AGP7-single-lib-V1.0.0" }
 #implementation 'com.github.JailedBird:jitpack:feat-AGP7-single-lib-V1.0.0'
+xStorage = { group = "com.github.X-Conlin", name = "storage", version = "1.0.0" }
 
 
 [plugins]
